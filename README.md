@@ -3,8 +3,6 @@
 <img align="left" width="45%" height="40%" src="https://github-readme-stats.vercel.app/api?username=Sundardasps&show_icons=true&theme=radical" />
 <img align="left" width="47%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sundardasps&layout=compact" />
 
----
-
 ### 🚀 Tech Stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)

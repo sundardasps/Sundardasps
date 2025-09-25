@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sundardas</h1>
 
-<p align="center">
+<p align="between">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=Sundardasps&show_icons=true&theme=radical" />
   <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sundardasps&layout=compact" />
 </p>
